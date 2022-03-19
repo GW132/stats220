@@ -6,8 +6,12 @@ In this page I will show my meme.🦄🌺🌸🌼
 
 ## About my meme 
 
-1. I like natual, beautiful scenery and I like painting. Hence I find the scenery painting of four season for my meme. 
-2. 
+1. I like natual, beautiful scenery and I like painting. Hence I use the scenery painting of four season for my meme. 
+2. I want to use one meme to show four season.
+3. I find paiting of spring, summer, autumn, winter. 
+4. I use R code to make the season meme. 
+5. I put the painting of spring and summer in the first row, the second row is word Spring and Summer and so on.
+6. Finally, I put the paintings together to be my "Season" meme.
 
 
 ## Here is my meme 
