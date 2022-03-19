@@ -6,6 +6,8 @@
 
 In this page I will show my meme.🦄🌺🌸🌼
 
+*I use the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
+
 ## About my meme 
 
 1. I like natual, beautiful scenery and I like painting. Hence I use the scenery painting of four season for my meme. 
