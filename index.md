@@ -2,6 +2,8 @@
 
 *Welcome to my website!* 
 
+**You can learn about season from here -> [Season](https://en.wikipedia.org/wiki/Season) ❤️💛
+
 In this page I will show my meme.🦄🌺🌸🌼
 
 ## About my meme 
