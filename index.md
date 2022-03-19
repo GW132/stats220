@@ -6,7 +6,8 @@ In this page I will show my meme.🦄🌺🌸🌼
 
 ## About my meme 
 
-1. 
+1. I like natual, beautiful scenery and I like painting. Hence I find the scenery painting of four season for my meme. 
+2. 
 
 
 ## Here is my meme 
