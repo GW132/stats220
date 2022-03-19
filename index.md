@@ -4,6 +4,10 @@
 
 In this page I will show my meme.🦄🌺🌸🌼
 
+## About my meme 
+
+1. 
+
 
 ## Here is my meme 
 
@@ -12,7 +16,7 @@ In this page I will show my meme.🦄🌺🌸🌼
 
 ## The code of my meme 🌟
 
-'''
+```
 library(magick)
 
 #picture 1
@@ -27,27 +31,27 @@ Spr_text <- image_blank(width = 300, height = 80, color = "#ccffe6") %>%
 Sum <- "http://img.tukuppt.com/png_preview/00/08/37/YaLABUqR0n.jpg!/fw/780" %>%
   image_read(Sum) %>% image_scale(400)
 
-# sq2
+#sq2
 Sum_text <- image_blank(width = 300, height = 80, color = "#ffb3b3") %>%
   image_annotate(text = "Summer", color = "#ffffff",size = 40, font = "Impact", gravity = "center")
 
-# picture 3
+#picture 3
 Aut <- "https://img95.699pic.com/photo/40162/5881.jpg_wh300.jpg" %>%
   image_read(Aut) %>% image_scale(300)
 
-# sq3
+#sq3
 Aut_text <- image_blank(width = 300, height = 80, color = "#ffffb3") %>%
   image_annotate(text = "Autumn", color = "#ffffff",size = 40, font = "Impact", gravity = "center")
 
-# picture 4
+#picture 4
 Win <- "https://www.yxhart.com/upload/default/20200825/8584d7ae3f199fc76ec66508f5f54ed3.jpg" %>%
   image_read(Win) %>% image_scale(300)
 
-# sq4
+#sq4
 Win_text <- image_blank(width = 300, height = 80, color = "#b3c6ff") %>%
   image_annotate(text = "Winter", color = "#ffffff",size = 40, font = "Impact", gravity = "center")
 
-# row1
+#row1
 r1 <- c(S1,S2) %>% image_append()
 
 #row2
@@ -64,5 +68,5 @@ Season <- c(r1,r2,r3,r4) %>%
 image_write(Season, "my_meme.png")
 
 
-'''
+```
 
