@@ -1,4 +1,4 @@
-# **Hi! Everyone!** 
+# **Hi! Everyone!**  ✨
 
 *Welcome to my website!* 
 
@@ -6,7 +6,7 @@
 
 In this page I will show my meme.🦄🌺🌸🌼
 
-*I use the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
+*I use the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).*
 
 ## About my meme 
 
